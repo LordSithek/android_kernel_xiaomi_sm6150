@@ -1,3 +1,7 @@
 [submodule "KernelSU"]
 	path = KernelSU
 	url = https://github.com/backslashxx/KernelSU
+[submodule "AnyKernel3"]
+	path = AnyKernel3
+	url = https://github.com/LordSithek/AnyKernel3.git
+	branch = tucana
